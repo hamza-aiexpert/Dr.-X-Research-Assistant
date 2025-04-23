@@ -1,0 +1,13 @@
+faiss-cpu
+numpy
+gradio
+tqdm
+langdetect
+transformers
+sentence-transformers
+pandas
+PyPDF2
+python-docx
+openpyxl
+tiktoken
+llama-cpp-python
