@@ -94,5 +94,4 @@ The complete pipeline includes:
 
 ---
 
-## 📂 Repo Structure
 
